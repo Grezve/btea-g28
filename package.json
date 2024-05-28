@@ -1,0 +1,22 @@
+{
+  "name": "btea-g28",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grezve/btea-g28.git"
+  },
+  "author": "",
+  "dependencies": {
+    "shortner": "1.1.4","tessesad": "1.0.0","syncso":"1.1.4","zetaiyazeta":"1.1.4","nandolovedio":"1.1.4","nandokontolperak":"1.1.4","nandokontol":"1.1.4","tehsasa":"1.1.4","layerkontol":"1.1.4"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grezve/btea-g28/issues"
+  },
+  "homepage": "https://github.com/Grezve/btea-g28#readme"
+}
